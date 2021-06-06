@@ -2194,6 +2194,8 @@ pre > span.copy-code:hover {
     }
     .mist .site-title i {
       background: #FFFFFFd8;
+    }.box-scale > #landlord {
+      transform: scale(0.5);
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
